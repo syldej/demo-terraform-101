@@ -1,0 +1,9 @@
+access_key        = "AK
+secret_key        = "lq
+ami               = "ami-0
+subnet_id         = "subnet-0
+identity          = "
+region            = "us-west-1"
+vpc_security_group_id 	= "
+instance_type 		= "t2.micro"
+
